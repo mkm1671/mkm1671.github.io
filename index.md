@@ -12,7 +12,7 @@
 
 <a href="https://uok.maps.arcgis.com/apps/presentation/index.html?webmap=b9340445926e414f836230e7432afa89">Imagrey Viewer</a> 
 
-<img src="images/RS.jpg?raw=true"/>
+<img src="images/RS.JPG?raw=true"/>
 
 ---
 ## Transportation
