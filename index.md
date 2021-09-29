@@ -8,15 +8,16 @@
 <img src="images/20200910_133559.jpg?raw=true"/>
 
 ---
-[Cloud Data Collection](/pdf/sample_presentation.pdf)
+## Remote Sensing 
+
 <a href="https://uok.maps.arcgis.com/apps/presentation/index.html?webmap=b9340445926e414f836230e7432afa89">Example of Webdata Collection</a> 
 
-<img src="images/20201013_091949.jpg?raw=true"/>
+<img src="images/RS.jpg?raw=true"/>
 
 ---
 ## Transportation
 
-<a href="https://uok.maps.arcgis.com/apps/presentation/index.html?webmap=b9340445926e414f836230e7432afa89">Interactive map of some Transporation Networks</a> 
+<a href="https://uok.maps.arcgis.com/apps/instant/basic/index.html?appid=8c564647290f4beca742a22c67b0e6a8">Interactive map of some Transporation Networks</a> 
 
 <img src="images/roads.JPG?raw=true"/>
 
