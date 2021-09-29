@@ -2,22 +2,22 @@
 
 ---
 
-### Inovative Technology! 
+### Project Examples 
 
+[Rare and Unqiue Species Surveys](http://example.com/)
+<img src="images/20200910_133559.jpg?raw=true"/>
+
+---
+[Cloud Data Collection](/pdf/sample_presentation.pdf)
+<img src="images/20201013_091949.jpg?raw=true"/>
+
+---
 [Side Scan Sonar](/sample_page)
 <img src="images/Capture.JPG?raw=true"/>
 
 ---
-[sUAS](/pdf/sample_presentation.pdf)
-<img src="images/20201013_091949.jpg?raw=true"/>
 
----
-[Cloud Data Collection](http://example.com/)
-<img src="images/20200910_133559.jpg?raw=true"/>
-
----
-
-### Category Name 2
+### Future Projects 
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
