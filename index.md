@@ -13,7 +13,7 @@
 
 ---
 [Transportation](/https://uok.maps.arcgis.com/apps/presentation/index.html?webmap=b9340445926e414f836230e7432afa89&slide=1)
-<img src="images/20201013_091949.jpg?raw=true"/>
+<img src="images/roads.JPD?raw=true"/>
 
 
 ---
