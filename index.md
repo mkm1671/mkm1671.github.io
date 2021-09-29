@@ -5,7 +5,7 @@
 ### Inovative Technology! 
 
 [Side Scan Sonar](/sample_page)
-<img src="images/Capture.jpg?raw=true"/>
+<img src="images/Capture.JPG?raw=true"/>
 
 ---
 [sUAS](/pdf/sample_presentation.pdf)
