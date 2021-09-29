@@ -12,8 +12,8 @@
 <img src="images/20201013_091949.jpg?raw=true"/>
 
 ---
-[Side Scan Sonar](/sample_page)
-<img src="images/Capture.JPG?raw=true"/>
+[Remote Sensing](/sample_page)
+<img src="images/RS.jpg?raw=true"/>
 
 ---
 
