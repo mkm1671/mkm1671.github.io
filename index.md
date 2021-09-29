@@ -18,7 +18,7 @@
 
 <a href="https://uok.maps.arcgis.com/apps/presentation/index.html?webmap=b9340445926e414f836230e7432afa89">Interactive map of some Transporation Networks</a> 
 
-<img src="images/roads.JPD?raw=true"/>
+<img src="images/roads.JPG?raw=true"/>
 
 
 ---
