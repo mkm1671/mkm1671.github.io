@@ -12,8 +12,8 @@
 <img src="images/20201013_091949.jpg?raw=true"/>
 
 ---
-[Transportation](/sample_page)
-<iframe src="https://uok.maps.arcgis.com/apps/instant/basic/index.html?appid=8c564647290f4beca742a22c67b0e6a8" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>iFrames are not supported on this page.</iframe>
+[Transportation](/https://uok.maps.arcgis.com/apps/instant/basic/index.html?appid=8c564647290f4beca742a22c67b0e6a8)
+<iframe src="https://uok.maps.arcgis.com/apps/instant/basic/index.html?appid=8c564647290f4beca742a22c67b0e6a8" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ---
 
