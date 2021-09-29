@@ -5,15 +5,15 @@
 ### Inovative Technology! 
 
 [Side Scan Sonar](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Capture.jpg?raw=true"/>
 
 ---
 [sUAS](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/20201013_091949.jpg?raw=true"/>
 
 ---
 [Cloud Data Collection](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/20200910_133559.jpg?raw=true"/>
 
 ---
 
