@@ -15,7 +15,7 @@
 <img src="images/20200910_133559.jpg?raw=true"/>
 
 
-[Mississippi Kite Statistical Distribution](/Final_Project_Martin.pdf)
+[Mississippi Kite Statistical Distribution](/pdf/Final_Project_Martin.pdf)
 <img src="images/Miss_Kite.jpg?raw=true"/>
 
 ---
