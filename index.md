@@ -2,6 +2,13 @@
 
 ---
 
+### Capestone Project 
+
+
+[Remote Sensing of Wetlands](/pdf/FinalPaper_species_V2.pdf)
+<img src="images/20200910_133559.jpg?raw=true"/>
+
+
 ### Project Examples 
 
 [Rare and Unqiue Species Surveys](/pdf/FinalPaper_species_V2.pdf)
