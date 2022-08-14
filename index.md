@@ -5,8 +5,8 @@
 ### Capestone Project 
 
 
-[Remote Sensing of Wetlands](/pdf/FinalPaper_species_V2.pdf)
-<img src="images/20200910_133559.jpg?raw=true"/>
+[Remote Sensing of Wetlands](/pdf/Martin_Final_Paper.pdf)
+<img src="images/Photo1.0.jpg?raw=true"/>
 
 
 ### Project Examples 
