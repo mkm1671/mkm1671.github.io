@@ -17,6 +17,7 @@
 
 [Mississippi Kite Statistical Distribution](/Final_Project_Martin.pdf)
 <img src="images/Miss_Kite.jpg?raw=true"/>
+
 ---
 ## Remote Sensing 
 
