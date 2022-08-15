@@ -31,7 +31,7 @@
 
 <img src="images/RS.JPG?raw=true"/>
 
----
+
 
 
 ---
@@ -39,7 +39,7 @@
 ### Google Earth Engine Projects 
 
 - [Fire Application](https://mkm1671.users.earthengine.app/view/fire-app)
-<img src="images/FireCrew.JPG?raw=true"/>
+<img src="images/"FireCrew.JPG?raw=true"/>
 ---
 
 
