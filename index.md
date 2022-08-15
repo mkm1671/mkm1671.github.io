@@ -39,7 +39,6 @@
 ### Google Earth Engine Projects 
 
 - [Fire Application](https://mkm1671.users.earthengine.app/view/fire-app)
-<img src="images/"FireCrew.jpg?raw=true"/>
 ---
 
 
