@@ -18,6 +18,12 @@
 [Mississippi Kite Statistical Distribution](/pdf/Final_Project_Martin.pdf)
 <img src="images/Miss_Kite.jpg?raw=true"/>
 
+## Undergraduate Research 
+
+[Analysis of Proposed Nicaraguan Canal](/pdf/Benfield_Martin_Skinner.pdf)
+<img src="images/nic.jpg?raw=true"/>
+
+
 ---
 ## Remote Sensing 
 
