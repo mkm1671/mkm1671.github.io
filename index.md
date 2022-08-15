@@ -32,13 +32,6 @@
 <img src="images/RS.JPG?raw=true"/>
 
 ---
-## Transportation
-
-<a href="https://uok.maps.arcgis.com/apps/instant/basic/index.html?appid=8c564647290f4beca742a22c67b0e6a8">Interactive map of some Transporation Networks</a> 
-
-<img src="images/roads.JPG?raw=true"/>
-
-Final_Project_Martin
 
 
 ---
@@ -46,6 +39,7 @@ Final_Project_Martin
 ### Google Earth Engine Projects 
 
 - [Fire Application](https://mkm1671.users.earthengine.app/view/fire-app)
+- <img src="images/fire.JPG?raw=true"/>
 ---
 
 
